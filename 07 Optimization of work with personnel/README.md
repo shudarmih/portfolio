@@ -1,6 +1,6 @@
 # Оптимизация работы с персоналом: минимизация потерь и избегание оттока сотрудников.
 
-[ipynb]()
+[ipynb](https://github.com/shudarmih/portfolio/blob/main/07%20Optimization%20of%20work%20with%20personnel/Optimization%20of%20work%20with%20personnel.ipynb)
 
 ## Описание проекта
 Требуется разработать следующие модели:
