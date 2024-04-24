@@ -1,6 +1,6 @@
 # Определение возраста покупателей
 
-[ipynb](https://github.com/shudarmih/portfolio/blob/main/01nidentifying%20toxic%20comments/identifying%20toxic%20comments.ipynb)
+[ipynb](https://github.com/shudarmih/portfolio/blob/main/01%20identifying%20toxic%20comments/identifying%20toxic%20comments.ipynb)
 
 ## Описание проекта
 Требуется создание модели для выявления токсичных комментариев для последующей отправки их на модерацию. Требование заказчика: качество модели необходимо оценивать по метрике F1 значение которой должно быть не меньше 0,75.
